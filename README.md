@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radwan0
 - 👀 I’m interested in ... Python, C, Django, Web Scraping, SQL, MongoDB, Docker, Git, FastAPI
-- 🌱 I’m currently learning JavaScript & TypeScript % ReactJS
+- 🌱 I’m currently learning  JavaScript & TypeScript % ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
