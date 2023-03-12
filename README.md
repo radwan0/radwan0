@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @radwan0
+- 👋 Hi, I’m @radwan faris this is my second github account my account, my main account name is RNFS  https://github.com/RNFS
 - 👀 I’m interested in ... Python, C, Django, Web Scraping, SQL, MongoDB, Docker, Git, FastAPI
 - 🌱 I’m currently learning ... JavaScript & TypeScript & React
 - 💞️ I’m looking to collaborate on ...
